@@ -9,4 +9,4 @@ pyproj>=2.6
 matplotlib
 pydov==3.1.0
 geotexxx
-groundhog
+groundhog @ git+https://github.com/snakesonabrain/groundhog@DEV
