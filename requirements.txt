@@ -10,4 +10,4 @@ matplotlib
 pydov==3.1.0
 geotexxx
 groundhog @ git+https://github.com/snakesonabrain/groundhog@DEV
-PyQt5
+PyQt6
